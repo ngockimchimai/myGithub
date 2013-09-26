@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.coolappz.HTML5Application" version="1.0.0">
-    <name>HTML5Application</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.coolappz.PhoneGapSample" version="1.0.0">
+    <name>PhoneGapSample</name>
 
     <description>PhoneGap Application</description>
 
     <author email="info@com.coolappz" href="http://www.coolappz.com">Tuanna</author>
 
     <icon gap:platform="android" height="96" src="res/icon/android/icon-96-xhdpi.png" width="96"/>
-    <icon gap:platform="ios" height="144" src="res/icon/ios/icon-72-2x.png" width="144"/>
+    <!--<icon gap:platform="ios" height="144" src="res/icon/ios/icon-72-2x.png" width="144"/>-->
 
     <gap:splash gap:platform="android" height="480" src="res/screen/android/screen-hdpi-landscape.png" width="800"/>
     <gap:splash gap:platform="android" height="800" src="res/screen/android/screen-hdpi-portrait.png" width="480"/>
@@ -17,14 +17,14 @@
     <gap:splash gap:platform="android" height="480" src="res/screen/android/screen-mdpi-portrait.png" width="320"/>
     <gap:splash gap:platform="android" height="720" src="res/screen/android/screen-xhdpi-landscape.png" width="1280"/>
     <gap:splash gap:platform="android" height="1280" src="res/screen/android/screen-xhdpi-portrait.png" width="720"/>
-    <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024"/>
+<!--    <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024"/>
     <gap:splash gap:platform="ios" height="1024" src="res/screen/ios/screen-ipad-portrait.png" width="768"/>
     <gap:splash gap:platform="ios" height="1536" src="res/screen/ios/screen-ipad-landscape.png" width="2048"/>
     <gap:splash gap:platform="ios" height="2048" src="res/screen/ios/screen-ipad-portrait-2x.png" width="1536"/>
     <gap:splash gap:platform="ios" height="320" src="res/screen/ios/screen-iphone-landscape.png" width="480"/>
     <gap:splash gap:platform="ios" height="480" src="res/screen/ios/screen-iphone-portrait.png" width="320"/>
     <gap:splash gap:platform="ios" height="640" src="res/screen/ios/screen-iphone-landscape-2x.png" width="960"/>
-    <gap:splash gap:platform="ios" height="960" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640"/>
+    <gap:splash gap:platform="ios" height="960" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640"/>-->
 
     <feature name="http://api.phonegap.com/1.0/device"/>
 
